@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Full-Stack Web Developer
-- 🌱 I’m currently learning HTML, CSS, JS and Python
-- 📫 How to reach me: contato@juliodiniz.dev
+- 🔭 I’m currently working on Data Engineer
+- 📫 How to reach me: julio.zinid@outlook.com.br
 
 <div>
   <a href="https://github.com/juliozinid">
